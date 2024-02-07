@@ -1,5 +1,4 @@
 welcome to git my file1.txt
 I will add some texts as following:
 	-text1 
-	-text2
-my text2 will be removed next time.
+	
